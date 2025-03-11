@@ -8,7 +8,7 @@ Summary:	Read/rewrite/write Python ASTs
 Summary(pl.UTF-8):	Odczyt/przepisywanie/zapis pythonowych AST
 Name:		python-astor
 Version:	0.8.1
-Release:	5
+Release:	6
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/astor/
